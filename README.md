@@ -1,2 +1,1 @@
-# Datenbanksysteme
-Berliner Hochschule Für Technik (BHT) Modul: Datenbanksysteme
+# Beuth University of Applied Sciences (BHT) Course: Database Systems (Datenbanksysteme)
